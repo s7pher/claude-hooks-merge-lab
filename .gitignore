@@ -1,0 +1,9 @@
+# Beacon output is runtime evidence, not source.
+aa06-beacon.log
+
+# OS cruft
+Thumbs.db
+.DS_Store
+
+# NOTE: .claude/settings.local.json is intentionally TRACKED in this lab
+# (it is part of the merge experiment). Do not add it here.
